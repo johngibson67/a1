@@ -1,2 +1,2 @@
 # a1
-CP1406 Assignment 1 - CissiPlay
+CP1406 Assignment 1 - CossiPlay
